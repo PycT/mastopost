@@ -93,7 +93,7 @@ if __name__ == "__main__":
     # print(token)
     # print(verifyToken(environment.authToken))
 
-    # testStatus = 'test7 https://celestial.ink test'
+    # testStatus = 'test8 https://celestial.ink: test'
     # print(
     #     postStatus(testStatus, testStatus)
     # )
